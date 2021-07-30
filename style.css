@@ -1,4 +1,22 @@
 
+.area {
+  font-family: 'Poppins', sans-serif;
+    width: 80%;
+    background-color: #a29bfe;
+    color: ##2980b9;
+    margin : 50px auto ;
+  font-size: 24px;
+}
+.convallis {
+
+  font-family: 'Poppins', sans-serif;
+    width: 80%;
+    background-color: #a29bfe;
+    color: #2c3e50;
+    margin : 50px auto ;
+  font-size: 24px;
+
+}
 .container {
 font-family: 'Poppins', sans-serif;
   width: 60%;
